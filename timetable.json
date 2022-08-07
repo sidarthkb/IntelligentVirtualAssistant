@@ -1,0 +1,57 @@
+[
+ {
+  "Day ": "Monday",
+  "1st period": "nothing",
+  "2nd period": "FLAT",
+  "3rd period": "DAA",
+  "4th period": "nothing",
+  "5th period": "nothing",
+  "6th period": "nothing",
+  "7th period": "nothing",
+  "8th period": "sanskrit"
+ },
+ {
+  "Day ": "Tuesday",
+  "1st period": "FLAT",
+  "2nd period": "DAA",
+  "3rd period": "CAO",
+  "4th period": "nothing",
+  "5th period": "nothing",
+  "6th period": "nothing",
+  "7th period": "nothing",
+  "8th period": "sanskrit"
+ },
+ {
+  "Day ": "Wednesday",
+  "1st period": "nothing",
+  "2nd period": "nothing",
+  "3rd period": "nothing",
+  "4th period": "nothing",
+  "5th period": "DBMS ",
+  "6th period": "DBMS lab",
+  "7th period": "DBMS lab",
+  "8th period": "DBMS lab"
+ },
+ {
+  "Day ": "Thursday",
+  "1st period": "DAA",
+  "2nd period": "CAO",
+  "3rd period": "nothing",
+  "4th period": "DBMS",
+  "5th period": "DAA Lab",
+  "6th period": "DAA Lab",
+  "7th period": "DAA Lab",
+  "8th period": "sanskrit"
+ },
+ {
+  "Day ": "Friday",
+  "1st period": "CAO",
+  "2nd period": "nothing",
+  "3rd period": "FLAT",
+  "4th period": "nothing",
+  "5th period": "CAO Lab",
+  "6th period": "CAO Lab",
+  "7th period": "CAO Lab",
+  "8th period": "DBMS"
+ }
+]
